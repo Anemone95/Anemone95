@@ -1,4 +1,3 @@
-### Hi there 👋
 <h2> Hi, I'm Anemone!</h2>
 <p>
   <img src="https://github-readme-stats.mrdulin.vercel.app/api?username=Anemone95&show_icons=true&hide_border=true&hide=prs&theme=buefy">

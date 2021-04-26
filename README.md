@@ -7,4 +7,5 @@
  ****
  ## Anemone's Link
 - ⭐️ Blog： https://anemone.top/
+- ⭐️ Wiki： http://wiki.anemone.top/
 - ⭐️ Mail： anemone95#qq.com
